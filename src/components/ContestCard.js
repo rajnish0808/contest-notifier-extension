@@ -42,7 +42,7 @@ export default function ContestCard({ contest, onDelete, handleAutoOpen }) {
 			end
 		)}&location=${encodeURIComponent(
 			contest.url
-		)}&details=Your reminder is set by Kontest Reminder. We wish you all the success in the world ❤️`;
+		)}&details=Your reminder is set by Contest Notifier. We wish you all the success in the world ❤️`;
 		browser.tabs.create({ active: true, url: uri });
 	};
 
