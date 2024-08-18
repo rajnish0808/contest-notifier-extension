@@ -1,10 +1,8 @@
-# template
-browser-extension-template
-
-# dependencies
-node_modules
-.pnp
-.pnp.js
+# production
+build
+build.*
+distribution
+*.zip
 
 # testing
 coverage
@@ -14,12 +12,10 @@ dev
 dev.*
 web-ext-artifacts
 
-# production
-build
-build.*
-distribution
-
-*.zip
+# dependencies
+node_modules
+.pnp
+.pnp.js
 
 # misc
 .cache
