@@ -1,2 +1,6 @@
+# Automatically handle text files with appropriate line endings
 * text=auto eol=lf
+
+# Specify that files with .ai extension are binary files
+# This prevents Git from attempting to process these files as text
 *.ai binary

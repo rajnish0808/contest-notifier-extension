@@ -1,7 +1,17 @@
 {
+	// Disable variable name mangling
+
 	"mangle": false,
+
+	// Configure output settings
+
 	"output": {
+		// Beautify the output for readability
+
 		"beautify": true,
+
+		// Set indentation level for the beautified output
+
 		"indent_level": 2
 	}
 }
