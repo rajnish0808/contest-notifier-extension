@@ -4,9 +4,15 @@
 
 ## Images
 
-![Screenshot 1](public/Assets/Screenshot%202024-08-20%20233651.png)
+<!-- ![Screenshot 1](public/Assets/Screenshot%202024-08-20%20233651.png)
 ![Screenshot 2](public/Assets/Screenshot%202024-08-20%20233717.png)
-![Screenshot 3](public/Assets/Screenshot%202024-08-20%20233745.png)
+![Screenshot 3](public/Assets/Screenshot%202024-08-20%20233745.png) -->
+<div style="display: inline-block;">
+  <img src="public/Assets/Screenshot%202024-08-20%20233651.png" alt="Screenshot 1" width="200"/>
+  <img src="public/Assets/Screenshot%202024-08-20%20233717.png" alt="Screenshot 2" width="200"/>
+  <img src="public/Assets/Screenshot%202024-08-20%20233745.png" alt="Screenshot 3" width="200"/>
+</div>
+
 
 
 ## Features
