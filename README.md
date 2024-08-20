@@ -4,9 +4,10 @@
 
 ## Images
 
-![Alt text](public\Assets\Screenshot 2024-08-20 233651.png)
-![Alt text](public\Assets\Screenshot 2024-08-20 233717.png)
-![Alt text](public\Assets\Screenshot 2024-08-20 233745.png)
+![Screenshot 1](public/Assets/Screenshot%202024-08-20%20233651.png)
+![Screenshot 2](public/Assets/Screenshot%202024-08-20%20233717.png)
+![Screenshot 3](public/Assets/Screenshot%202024-08-20%20233745.png)
+
 
 ## Features
 
