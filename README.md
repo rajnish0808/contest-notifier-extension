@@ -1,7 +1,11 @@
 # Contest Notifier
 
 **Contest Notifier** is a cross-browser extension designed to ensure you never miss any upcoming coding contests on various platforms like LeetCode, Codeforces, CodeChef, and AtCoder.
- <img src="public/Assets/ext_image.png" alt="Screenshot 1" width="200"/>
+
+<br>
+
+<img src="public/Assets/ext_image.png" alt="Screenshot 1" width="400"/>
+
 
 ## Images
 
