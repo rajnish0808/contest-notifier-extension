@@ -29,6 +29,3 @@ With a single click, you can:
 - Subscribe to notifications.
 - Receive a reminder 5 minutes before the contest starts.
 
-## Support
-
-For support, please contact us via email.
